@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "Mizukes"
+		},
+		{
+			"path": "glozzom-multi-page"
+		},
+		{
+			"path": "bootstrap_sandbox_starter"
+		},
+		{
+			"path": "bs4boiler"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "glozzom-multi-page"
+	}
+}
