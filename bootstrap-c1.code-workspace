@@ -14,9 +14,12 @@
 		},
 		{
 			"path": "blogen_admin"
+		},
+		{
+			"path": "Portfolio"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "blogen_admin"
+		"liveServer.settings.multiRootWorkspaceName": "Portfolio"
 	}
 }
