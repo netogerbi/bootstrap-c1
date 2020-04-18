@@ -11,9 +11,12 @@
 		},
 		{
 			"path": "bs4boiler"
+		},
+		{
+			"path": "blogen_admin"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "glozzom-multi-page"
+		"liveServer.settings.multiRootWorkspaceName": "blogen_admin"
 	}
 }
